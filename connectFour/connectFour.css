@@ -1,0 +1,15 @@
+button {
+  background-color: #65686e;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.turnBlue {
+  background-color: blue;
+}
+
+.turnRed {
+  background-color: red;
+}
